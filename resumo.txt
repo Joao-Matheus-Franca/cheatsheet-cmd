@@ -1,0 +1,18 @@
+Comando para listar diretórios: dir nome_do_diretório ou caminho_do_diretório
+Comando para acessar diretório: cd nome_do_diretório ou caminho_do_diretório
+Atalhos nominais:
+  - Referenciar o próprio diretório: .
+  - Referenciar o diretório anterior: ..
+  - Referenciar o diretório raiz: /
+Comando para exibir a estrutura de diretórios a partir do atual: tree
+Comando para criar diretório: mkdir nome_do_diretório
+Comando para remover diretíorios: rmdir nome_do_diretório
+Comando para acessar conteúdo de arquivos: type nome_do_arquivo 
+Comando para exibir conteúdo de arquivos em estrutura de páginas: more nome_do_arquivo 
+Comando para mover arquivos entre diretórios: move nome_do_arquivo(caminho_do_arquivo) caminho_do_destino
+Comando para obter instruções sobre comandos: help nome_do_comando
+Comando para gerar cópias de arquivos: copy nome_do_arquivo novo_arquivo
+Comando para renomear arquivos ou diretórios: rename nome_antigo novo_nome
+Comando para remover arquivos: del nome_do_arquivo
+Comando para remover todos os arquivos de um terminal: del nome_do_terminal
+Comando para limpar informações do terminal: cls
